@@ -20,10 +20,12 @@
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+.idea/mystore.iml
 .idea/*
 NewKeyPair.pem
 .elasticbeanstalk/
-.idea/runConfigurations/
+
 .idea/vcs.xml
 app/overrides/
 vendor/assets/images/
